@@ -2,6 +2,10 @@
 
 Cursos voltados para o desenvolvimento no Framework React.
 
+- Como criar um projeto React: 
+  1 - Tenha instalado o npm e node.
+  2 - Execute o comando npx create-react-app [nome do projeto] --template typescript(Para fazer o inicialização de modelos usando typescript)
+
 1 - React: escrevendo com Typescript
  - Crie um projeto React com Typescript do zero com Create React App
  - Entenda conceitos de React como Componentização, Props e State
